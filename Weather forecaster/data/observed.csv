@@ -1,0 +1,9 @@
+target_date,kind,observed_f,obs_source
+2026-07-21,high,101.0,IEM_ASOS
+2026-07-21,low,72.0,IEM_ASOS
+2026-07-22,high,104.0,IEM_ASOS
+2026-07-22,low,75.0,IEM_ASOS
+2026-07-23,high,100.0,IEM_ASOS
+2026-07-23,low,80.0,IEM_ASOS
+2026-07-24,high,96.0,IEM_ASOS
+2026-07-24,low,77.0,IEM_ASOS
